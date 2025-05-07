@@ -1,4 +1,4 @@
-# Jose-Sarmientos-L
+# Jose-Sarmientos-L PRACTICA2
 aqui creo los roles
 CREATE ROLE 'admin';
 CREATE ROLE 'editor';
